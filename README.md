@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://react-tip-calculator-vite.netlify.app/)
+- Solution URL: [Solution URL]([https://your-solution-url.com](https://github.com/AskiaDev/tip-calculator))
+- Live Site URL: [Live](https://react-tip-calculator-vite.netlify.app/)
 
 ## My process
 
